@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 563d888faf391774c8d1b0755e7df4a7
+timeCreated: 1525363213
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Brainfish_PersonalUseOnly
+  fontNames:
+  - Brainfish_PersonalUseOnly
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

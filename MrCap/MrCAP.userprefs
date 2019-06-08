@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\movimiento.cs">
+    <Files>
+      <File FileName="Assets\movimiento.cs" Line="12" Column="35" />
+      <File FileName="Assets\camara.cs" Line="18" Column="23" />
+      <File FileName="Assets\Texto.cs" Line="19" Column="70" />
+      <File FileName="Assets\Contadores.cs" Line="14" Column="2" />
+      <File FileName="Assets\effects.cs" Line="1" Column="1" />
+      <File FileName="Assets\Traslacion.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
